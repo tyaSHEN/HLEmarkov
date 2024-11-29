@@ -6,7 +6,7 @@ This is a repository for our paper in [*Demography*](https://doi.org/10.1215/007
 
 Details of the mathematical derivations and the demographic interpretation of the results are included in our paper.
 
-The code is available in "**modeling.R**".
+The code is available in "**Modeling.R**".
 
 It includes all the model by loading cleaned data in "output/Sex"
 
