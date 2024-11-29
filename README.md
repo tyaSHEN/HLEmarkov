@@ -10,6 +10,6 @@ The code is available in "**modeling.R**".
 
 It includes all the model by loading cleaned data in "output/Sex"
 
-"Data processing.R" contains code to clean up the HRS data for the purpose of the analysis and the two imputation procedures. The cleaned data would be stored in “output/Sex”. There are 10 iterations of the imputation. These file include two duration columns to track the known and unknown duration. 
+"Data processing.R" contains code to clean up the HRS data for the purpose of the analysis and the two imputation procedures. The cleaned data would be stored in “output/Sex”. There are 10 iterations of the imputation. These file include two duration columns to track the known and unknown duration. No need to run this script as cleaned data can be found in “output/Sex”, but if you want to you will need to download the HRS data first.
 
 For other enquiries related to the paper please email tianyu.shen@anu.edu.au
