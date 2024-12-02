@@ -2,7 +2,7 @@
 
 ***Tianyu Shen, James O'Donnell***
 
-This is a repository for our paper in [*Demography*](https://doi.org/10.1215/00703370-11058373).
+This is a repository for our paper in [*Demography*](https://doi.org/10.1215/00703370-11696463).
 
 Details of the mathematical derivations and the demographic interpretation of the results are included in our paper.
 
